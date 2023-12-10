@@ -1,1 +1,1 @@
-# Budget_app_server
+# server-budget-app
